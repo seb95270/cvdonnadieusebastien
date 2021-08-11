@@ -3,12 +3,7 @@ p
     color: blue;
 }
 
-h2
-{
-    color: red;
-}
-
-strong
+h2, strong
 {
     color: red;
 }

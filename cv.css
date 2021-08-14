@@ -1,7 +1,6 @@
 @font-face {
-    font-family: milkshake;
+    font-family: "milkshake";
     src: url(plc/Milkshake.otf);
-    src: url(plc/Milkshake.ttf);
 }
 
 p, h1
@@ -19,6 +18,7 @@ h2, strong
 body
 {
     background-image: url(img/fond.png);
+    font-family: "milkshake";
 }
 
 figure

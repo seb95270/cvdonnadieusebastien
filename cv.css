@@ -20,8 +20,8 @@ body
     font-size: x-large;
     background-image: url(img/fond.png);
     font-family: "milkshake";
-    border: 3px black groove;
-    text-shadow: 4px 4px 2px black;
+    border: 10px rgb(45, 24, 233) groove;
+    text-shadow: 2px 2px 2px rgb(14, 11, 151);
 }
 
 figure

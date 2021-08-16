@@ -5,18 +5,19 @@
 
 p, h1
 {
-    color: rgb(136, 136, 143);
+    color: rgb(22, 22, 158);
     text-align: center;
 }
 
 h2, strong
 {
-    color: rgb(0, 217, 255);
+    color: rgb(192, 62, 23);
     text-align: center;
 }
 
 body
 {
+    font-size: x-large;
     background-image: url(img/fond.png);
     font-family: "milkshake";
     border: 3px black groove;
@@ -26,4 +27,9 @@ body
 figure
 {
     text-align: center;
+}
+
+ul, ol
+{
+    color: rgb(78, 34, 18);
 }

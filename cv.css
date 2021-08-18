@@ -7,6 +7,9 @@ p, h1
 {
     color: rgb(22, 22, 158);
     text-align: center;
+    border: 10px groove black;
+    padding: auto;
+    margin: auto;
 }
 
 h2, strong

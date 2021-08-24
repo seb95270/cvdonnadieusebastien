@@ -37,7 +37,9 @@ ul, ol
     color: rgb(78, 34, 18);
 }
 
-#liseret
+#liseret, #contenu
 {
-    border: 15px solid black;
+    display: inline-block;
+    vertical-align: top;
 }
+

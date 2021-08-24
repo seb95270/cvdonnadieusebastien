@@ -36,3 +36,8 @@ ul, ol
 {
     color: rgb(78, 34, 18);
 }
+
+#liseret
+{
+    border: 15px solid black;
+}

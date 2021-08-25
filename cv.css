@@ -18,7 +18,7 @@ h1, h1 + p
 img
 {
     float: right;
-    border: 1px solid black;
+    border: 10px groove black;
     box-shadow: 2px 2px 2px black;
 }
 
@@ -68,8 +68,9 @@ h1, h2
 
 ul, ol
 {
-    text-shadow: 1px 2px 2px black;
-    color: rgb(5, 94, 94);
+    text-shadow: 2px 2px 2px black;
+    color: rgb(21, 207, 207);
+    list-style-type: none;
 }
 
 strong
@@ -80,6 +81,6 @@ strong
 
 body
 {
-    box-shadow: 6px 6px 1px black;
+    box-shadow: 6px 6px 1px  gray;
     border: 10px groove darkred;
 }

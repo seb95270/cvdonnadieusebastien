@@ -8,6 +8,9 @@
 body
 {
     background-image: url("img/fond.png");
+    box-shadow: 6px 6px 1px  gray;
+    border: 10px groove darkred;
+    font-size: 1em;
 }
 
 h1, h1 + p
@@ -35,6 +38,7 @@ section
     display: flex;
     flex-wrap: wrap;
     justify-content: center;
+    align-items: center;
 }
 
 #liseret
@@ -43,7 +47,7 @@ section
     width: 5%;
     margin-right: 3%;
     margin-left: auto;
-    height: 575px;
+    height: 500px;
     background-image: url("img/u.png");
     border-radius: 10px;
 }
@@ -71,16 +75,11 @@ ul, ol
     text-shadow: 2px 2px 2px black;
     color: rgb(21, 207, 207);
     list-style-type: none;
+    background-color: grey;
 }
 
 strong
 {
     color: crimson;
     text-decoration: underline;
-}
-
-body
-{
-    box-shadow: 6px 6px 1px  gray;
-    border: 10px groove darkred;
 }

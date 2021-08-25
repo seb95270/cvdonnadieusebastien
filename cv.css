@@ -32,8 +32,9 @@ section
 
 #liseret , #contenu
 {
-    display: inline-block;
-    vertical-align: top;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
 }
 
 #liseret
@@ -42,7 +43,7 @@ section
     width: 5%;
     margin-right: 3%;
     margin-left: auto;
-    height: 640px;
+    height: 575px;
     background-image: url("img/u.png");
     border-radius: 10px;
 }

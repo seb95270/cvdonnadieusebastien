@@ -45,7 +45,7 @@ section
 #liseret
 {
     float: left;
-    width: 5%;
+    width: 10%;
     margin-right: 5%;
     margin-left: auto;
     height: 500px;
@@ -55,7 +55,7 @@ section
 
 #contenu
 {
-    width: 90%;
+    width: 80%;
 }
 
 p

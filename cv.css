@@ -86,3 +86,32 @@ strong
     text-decoration: underline;
     font-style: italic;
 }
+
+@media screen and (max-width: 1024px) 
+{
+    p
+    {
+        color: darkred;
+        text-shadow: 2px 2px 2px black;
+        text-transform: capitalize;
+        text-decoration: underline;
+        font-size: 1.2em;
+    }
+
+    section
+    {
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
+        flex-wrap: wrap;
+        width: auto;
+    }
+
+    #liseret
+    {
+        width: auto;
+        height: auto;
+        margin: auto;
+    }
+}
